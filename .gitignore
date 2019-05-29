@@ -1,0 +1,33 @@
+### Project Files ###
+
+data/
+*.jpg
+*.png
+groundtruth.json
+
+### Python ###
+
+venv/
+
+### Windows ###
+
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### Linux ###
+
+.*
+!.gitignore
+!.gitattributes
+*~
+
+### OSX ###
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
