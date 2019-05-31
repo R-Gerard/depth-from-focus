@@ -18,7 +18,9 @@ This method is pleasingly parallel and surprisingly effective, even with uncalib
 
 Obviously this system can fail with smooth, featureless surfaces such as blank walls.
 
-***TODO: insert illustration here***
+![](method1_diagram.png)
+
+Above: Example workflow for the `balcony` dataset. Note that in the `depth map` black pixels indicate _near_ distance and white pixels indicate _far_ distance.
 
 # Future Work
 
